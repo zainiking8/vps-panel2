@@ -78,7 +78,7 @@ Then select **Option 9** for full automatic install — just enter your domain a
 ### Method 1: Direct Download
 
 ```bash
-wget -O menu.sh https://raw.githubusercontent.com/YOUR_REPO/menu.sh
+wget -O menu.sh https://raw.githubusercontent.com/zainiking8/vps-panel2/menu.sh
 chmod +x menu.sh
 ./menu.sh
 ```
