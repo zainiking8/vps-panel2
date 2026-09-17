@@ -60,7 +60,7 @@ A powerful all-in-one VPN management script for VPS servers. Supports both **SSH
 ssh root@YOUR_VPS_IP
 
 # 2. Download the script (or upload menu.sh)
-wget -O menu.sh https://raw.githubusercontent.com/YOUR_REPO/menu.sh
+wget -O menu.sh https://raw.githubusercontent.com/zainiking8/vps-panel2/menu.sh
 
 # 3. Make executable
 chmod +x menu.sh
